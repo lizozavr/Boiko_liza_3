@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\laba3_2\laba3_2\bin\Debug\laba3_2.exe.config
+C:\Users\user\Desktop\laba3_2\laba3_2\bin\Debug\laba3_2.exe
+C:\Users\user\Desktop\laba3_2\laba3_2\bin\Debug\laba3_2.pdb
+C:\Users\user\Desktop\laba3_2\laba3_2\obj\Debug\laba3_2.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\laba3_2\laba3_2\obj\Debug\laba3_2.exe
+C:\Users\user\Desktop\laba3_2\laba3_2\obj\Debug\laba3_2.pdb
